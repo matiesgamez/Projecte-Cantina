@@ -21,7 +21,7 @@
              <form class="login-form">
                  <input type="text" placeholder="nom d'usuari"/>
                  <input type="password" placeholder="contrasenya"/>
-                 <button>Enregistre't</button>
+                 <button>Entra</button>
                  <p class="message">No estàs enregistat? <a href="#">Crea un compte</a></p>
              </form>
             </div>
